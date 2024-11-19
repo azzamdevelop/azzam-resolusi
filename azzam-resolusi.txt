@@ -4,13 +4,12 @@ Azzam Resolusi
 - Konsinten Belajar Bahasa Inggris
 - Todo List & Goal di tahun ini menjadi frontend dev
 - MENGASAH ILMU MENGGAMBAR sebagai HOBI
-- Komunikasi🥸✅✅✅
+- Belajar Komunikasi dengan mengajar
 - Senyum
 
 Fast Track Frontend Programming-----------------------------------------------------------------------------------------------------------
 
 Roadmap----------------------------------------------
-
 Internet
 HTML
 CSS
@@ -28,12 +27,10 @@ Various Libraries
 Important Libraries
 
 Go International-----------------------------------------
-
 English
 Fast Track Roadmap
 Test Wawancara ENG
 
 Goals--------------------------------------------------
-
 Goal: 1 Tahun
 To do list: from easy
